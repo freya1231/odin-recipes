@@ -1,0 +1,21 @@
+/* styles.css */
+
+body {
+    background-color: lavender;
+}
+div {
+    color:white;
+    
+}
+
+p {
+    color: slateblue;
+}
+
+h1,h2 {
+    color: gray;
+}
+
+ul,ol {
+    color: steelblue;
+}
